@@ -1,0 +1,26 @@
+@media (hover: hover) and (pointer: fine) {
+  .nav-left a:hover {
+    color: #ffcc00;
+  }
+
+  .search-form button:hover {
+    background: #e0b200;
+  }
+
+  .side-menu a:hover {
+    background: #ff0033;
+    color: white;
+    transform: translateX(6px);
+    box-shadow: 0 4px 12px rgba(255, 0, 51, 0.4);
+  }
+
+  .footer-section a:hover {
+    color: #fff;
+  }
+}
+
+/* @media screen ma{
+    
+}
+
+movies-list */
